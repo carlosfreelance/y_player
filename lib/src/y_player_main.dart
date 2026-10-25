@@ -1,6 +1,6 @@
 import 'dart:async'; // Added for microtask
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:media_kit_video/media_kit_video.dart';
 import 'package:y_player/src/quality_selection_sheet.dart';
 import 'package:y_player/src/speed_slider_sheet.dart';

@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:y_player/src/models/quality_option.dart';
 
 /// A bottom sheet that shows a list of available video qualities.
